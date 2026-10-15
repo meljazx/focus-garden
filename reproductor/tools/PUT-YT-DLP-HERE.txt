@@ -1,2 +1,0 @@
-Put yt-dlp.exe in this folder (download: https://github.com/yt-dlp/yt-dlp/releases).
-It is only needed for YouTube and Spotify links.
